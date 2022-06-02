@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/margueritten/static/css/main.f24e86a6.css",
+    "main.js": "/margueritten/static/js/main.020a816b.js",
+    "static/js/787.c1b7f83a.chunk.js": "/margueritten/static/js/787.c1b7f83a.chunk.js",
+    "static/media/margueritten.png": "/margueritten/static/media/margueritten.6cc49c24e96a0215b2c0.png",
+    "static/media/margueritten-grill.jpeg": "/margueritten/static/media/margueritten-grill.1bd40659c2aa70e8de31.jpeg",
+    "static/media/margueritten-inde.jpeg": "/margueritten/static/media/margueritten-inde.6417d75b20d03565db83.jpeg",
+    "static/media/mini-golf.jpeg": "/margueritten/static/media/mini-golf.64ad8645ea6b71030e91.jpeg",
+    "static/media/lilleburger.jpeg": "/margueritten/static/media/lilleburger.31a2b5b4430790fb7014.jpeg",
+    "index.html": "/margueritten/index.html",
+    "main.f24e86a6.css.map": "/margueritten/static/css/main.f24e86a6.css.map",
+    "main.020a816b.js.map": "/margueritten/static/js/main.020a816b.js.map",
+    "787.c1b7f83a.chunk.js.map": "/margueritten/static/js/787.c1b7f83a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24e86a6.css",
+    "static/js/main.020a816b.js"
+  ]
+}
