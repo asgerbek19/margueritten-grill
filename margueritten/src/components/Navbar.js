@@ -19,7 +19,7 @@ export default function Navbar() {
             <nav className="navbar">
                     <NavLink to="/">Home</NavLink>
 
-                    <NavLink  to="/minigolf"> <FontAwesomeIcon icon={faBurger}  /></NavLink>
+                    <NavLink  to="/minigolf">  hej </NavLink>
 
                     <NavLink to="/om-os"> <FontAwesomeIcon icon="fa-regular fa-face-smile" /> Om os</NavLink>
                 
