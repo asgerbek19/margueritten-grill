@@ -12,6 +12,11 @@ export default function Home(){
         window.open(url)
 
     }
+    function handleBestil(){
+        const url="https://xn--kbmad-vua.dk/menu-og-aabningstider/"
+         window.open(url)
+ 
+     }
   
         return(
           
@@ -37,7 +42,7 @@ export default function Home(){
     
     <div className="btn1-flex">
     <button onClick={handleMenu} className="btn">Se menukort</button>
-    <Link to="/" className="btn">Log ind</Link>
+    <button onClick={handleBestil} className="btn">Bestil online</button>
       
     </div>
     </div>
